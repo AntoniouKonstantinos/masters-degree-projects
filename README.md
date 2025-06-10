@@ -1,1 +1,1 @@
-# masters-degree-projects
+# masters-degree-Jypyter-Notebook-projects
